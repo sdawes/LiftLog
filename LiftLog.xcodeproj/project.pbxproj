@@ -51,6 +51,7 @@
 		1F749C242C985CC700C79304 /* LiftLog */ = {
 			isa = PBXGroup;
 			children = (
+				1F749C332C985DF700C79304 /* New Group */,
 				1F749C252C985CC700C79304 /* LiftLogApp.swift */,
 				1F749C272C985CC700C79304 /* ContentView.swift */,
 				1F749C292C985CC800C79304 /* Assets.xcassets */,
@@ -65,6 +66,13 @@
 				1F749C2C2C985CC800C79304 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		1F749C332C985DF700C79304 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
