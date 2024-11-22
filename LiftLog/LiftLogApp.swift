@@ -14,6 +14,6 @@ struct LiftLogApp: App {
         WindowGroup {
             ContentView()
         }
-        .modelContainer(for: ExerciseModel.self)
+        .modelContainer(for: Exercise.self)
     }
 }
